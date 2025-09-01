@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\BOJ\18110\18110\main.cpp(15,8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\BOJ\18110\18110\main.cpp(23,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  18110.vcxproj -> C:\BOJ\18110\x64\Debug\18110.exe
